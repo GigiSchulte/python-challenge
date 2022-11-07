@@ -9,8 +9,8 @@
 
 
 #imported modules
-import os
 import csv
+import os
 
 budgetData = os.path.join("Resources","budget_data.csv") #source file
 
